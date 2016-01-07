@@ -1,0 +1,32 @@
+{
+  "name": "braunmar/classloader",
+  "description": "Class robot loader",
+  "keywords": [
+    "braunmar",
+    "class",
+    "robot",
+    "loader"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/braunmar/classloader/issues",
+    "source": "https://github.com/braunmar/classloader"
+  },
+  "authors": [
+    {
+      "name": "Marek Braun",
+      "email": "marra.braun@gmail.com",
+      "homepage": "http://braunmar.cz/"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "braunmar\\classloader\\": "src/"
+    }
+  }
+}

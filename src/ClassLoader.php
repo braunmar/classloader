@@ -1,10 +1,9 @@
 <?php
 
-/*
- * (c) Marek Braun (braunmar)
- *
- * For the full copyright and license information, please view the LICENSE
- * file that was distributed with this source code.
+/**
+ * @link https://github.com/braunmar/classloader
+ * @copyright Copyright (c) 2016 Marek Braun
+ * @license https://github.com/braunmar/classloader/blob/master/LICENSE
  */
 
 namespace braunmar\simple\classloader;
@@ -12,7 +11,7 @@ namespace braunmar\simple\classloader;
 /**
  * Class robot loader.
  * 
- * See https://github.com/braunmar/classloader.git
+ * See https://github.com/braunmar/classloader
  * 
  *      // example of basic usage
  *      braunmar\simple\classloader\ClassLoader::getInstance()

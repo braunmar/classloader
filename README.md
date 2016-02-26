@@ -12,4 +12,4 @@ For full documentation see this link at [demos.braunmar.cz/classloader](http://d
 
 Licence
 -------
-Class robot loader is under MIT licence. See the [LICENCE.md](https://github.com/braunmar/classloader/blob/master/LICENSE.md) for details.
+Class robot loader is under MIT licence. See the [LICENCE](https://github.com/braunmar/classloader/blob/master/LICENSE) for details.

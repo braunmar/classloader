@@ -1,6 +1,6 @@
 {
   "name": "braunmar/classloader",
-  "description": "Class robot loader for find and require class.",
+  "description": "Class robot loader for find and require classes.",
   "keywords": [
     "braunmar",
     "class",
